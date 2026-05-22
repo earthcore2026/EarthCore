@@ -16,7 +16,7 @@ export default function ContactPage() {
     
     const text = `*New Trading Enquiry*\n\n*Name:* ${data.name}\n*Company:* ${data.company}\n*Email:* ${data.email}\n*Commodity:* ${data.commodity}\n\n*Message:*\n${data.message}`;
     const encodedText = encodeURIComponent(text);
-    window.open(`https://wa.me/918886855449?text=${encodedText}`, '_blank');
+    window.open(`https://wa.me/918501844456?text=${encodedText}`, '_blank');
   };
 
   return (
@@ -46,7 +46,7 @@ export default function ContactPage() {
               <div className="flex items-start gap-4">
                 <Phone className="text-accent-primary w-6 h-6 mt-0.5" />
                 <div>
-                  <p className="text-text-primary text-lg font-medium">+91 88868 55449</p>
+                  <p className="text-text-primary text-lg font-medium">+91 85018 44456</p>
                 </div>
               </div>
 

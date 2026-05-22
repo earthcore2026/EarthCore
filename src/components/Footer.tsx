@@ -74,7 +74,7 @@ export default function Footer() {
             <ul className="flex flex-col gap-4 text-sm text-text-secondary">
               <li className="flex flex-col">
                 <span className="text-text-muted mb-1 text-sm uppercase">Phone</span>
-                <span className="text-text-primary">+91 88868 55449</span>
+                <span className="text-text-primary">+91 85018 44456</span>
               </li>
               <li className="flex flex-col">
                 <span className="text-text-muted mb-1 text-sm uppercase">Email</span>

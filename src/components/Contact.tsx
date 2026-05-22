@@ -38,7 +38,7 @@ export default function Contact() {
             <div className="flex items-start gap-4">
               <Phone className="text-accent-primary w-6 h-6 mt-1" />
               <div>
-                <p className="text-text-primary text-lg font-medium mb-1">+91 88868 55449</p>
+                <p className="text-text-primary text-lg font-medium mb-1">+91 85018 44456</p>
                 <p className="text-text-muted text-sm">Available for immediate inquiries</p>
               </div>
             </div>
@@ -101,7 +101,7 @@ export default function Contact() {
                 </div>
                 <div className="flex flex-col gap-2">
                   <label htmlFor="phone" className="text-text-muted text-sm font-medium">Phone Number</label>
-                  <input type="tel" id="phone" className="bg-bg-surface border border-border-subtle rounded-sm p-4 text-text-primary placeholder-text-muted/50 focus:outline-none focus:border-accent-primary focus:shadow-[0_0_0_2px_rgba(201,134,42,0.2)] transition-all font-body" placeholder="+91 95504 78034" />
+                  <input type="tel" id="phone" className="bg-bg-surface border border-border-subtle rounded-sm p-4 text-text-primary placeholder-text-muted/50 focus:outline-none focus:border-accent-primary focus:shadow-[0_0_0_2px_rgba(201,134,42,0.2)] transition-all font-body" placeholder="+91 85018 44456" />
                 </div>
               </div>
 
